@@ -1,0 +1,11 @@
+{
+  "name": "YT direct view context menu",
+  "description": "Context menu to open YT video links in direct view",
+  "version": "0.1",
+  "permissions": ["contextMenus"],
+  "background": {
+    "persistent": false,
+    "scripts": ["script.js"]
+  },
+  "manifest_version": 2
+}
